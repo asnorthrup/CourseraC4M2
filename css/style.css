@@ -123,7 +123,7 @@ div#menu{
 }
 
 #chicken {
-	color: black;
+	color: white;
 	background-color: green;
 	margin-bottom: 5px;
 	border: 1px solid black;
@@ -135,7 +135,7 @@ div#menu{
 
 }
 #beef {
-	color: white;
+	color: black;
 	background-color: red;
 	margin-bottom: 5px;
 	border: 1px solid black;
