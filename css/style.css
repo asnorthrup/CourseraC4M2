@@ -17,6 +17,7 @@ p {
   font-family: Helvetica;
   color: black;
   text-align:left;
+  font-size: 1em;
 }
 
 /* Simple Responsive Framework. */
