@@ -8,13 +8,15 @@ body {
 h1 {
   margin-bottom: 15px;
   text-align: center;
+  font-size: 1.75em;
 }
 
 p {
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: white;
+  color: black;
+  text-align:left;
 }
 
 /* Simple Responsive Framework. */
@@ -128,7 +130,7 @@ div#menu{
 	position: absolute; 
 	top: 0px; 
 	right: 0px;
-	font-size: 18px;
+	font-size: 1.25em;
 
 }
 #beef {
@@ -140,7 +142,7 @@ div#menu{
 	position: absolute; 
 	top: 0px; 
 	right: 0px;
-	font-size: 18px;
+	font-size: 1.25em;
 
 }
 #sushi {
@@ -152,17 +154,13 @@ div#menu{
 	position: absolute; 
 	top: 0px; 
 	right: 0px;
-	font-size:18px;
+	font-size: 1.25em;
 
 }
 
 /*****main paragraph for menus****/
 p {
-	/*margin-right: auto;
-	margin-left: auto;*/
-	font-family: Helvetica;
-	color: black;
-	text-align:left;
+
 
 
 }
